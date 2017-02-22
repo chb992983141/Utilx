@@ -7,7 +7,7 @@ import android.graphics.drawable.StateListDrawable;
 /**
  * 加载drawable
  *
- * Created by ezez-c on 2017/1/16.
+ * Created by ezez-c
  */
 public class DrawableUtilx {
 
