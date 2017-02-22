@@ -1,4 +1,4 @@
-package com.itheima.zhbjteach.utils;
+package com.duff.steamplus.utilx;
 
 import java.security.MessageDigest;
 
