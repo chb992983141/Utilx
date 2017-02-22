@@ -9,7 +9,7 @@ import com.lidroid.xutils.BitmapUtils;
  * Created by ezez-c 
  */
 public class BitmapUtilx {
-    // TODO:  后续考虑使用picasso
+    // TODO: 后续考虑使用picasso
     private static BitmapUtils mBitmapUtils = null;
 
     public static BitmapUtils getBitmapUtils() {
