@@ -1,5 +1,5 @@
 package com.duff.steamplus.utilx;
-
+// typeevaluator
 public class ColorUtil {
 	public static Object evaluateColor(float fraction, Object startValue,
 			Object endValue) {
