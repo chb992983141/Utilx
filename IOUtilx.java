@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * 主要实现io.close()
- * Created by ezez-c on 2017/1/16.
+ * Created by ezez-c
  */
 public class IOUtilx {
     public static boolean close(Closeable io) {
