@@ -6,10 +6,10 @@ import com.lidroid.xutils.BitmapUtils;
 /**
  * xutils工具处理图片加载
  * 饱汉模式
- * Created by ezez-c on 2017/1/16.
+ * Created by ezez-c 
  */
 public class BitmapUtilx {
-    // TODO: 2017/1/16 后续考虑使用picasso
+    // TODO:  后续考虑使用picasso
     private static BitmapUtils mBitmapUtils = null;
 
     public static BitmapUtils getBitmapUtils() {
